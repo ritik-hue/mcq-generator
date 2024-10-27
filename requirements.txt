@@ -4,5 +4,5 @@ fpdf
 gunicorn
 pdfplumber
 python-docx
-csv
+
 google
