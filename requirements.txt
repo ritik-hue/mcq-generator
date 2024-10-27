@@ -1,7 +1,2 @@
 flask
-
-pdfplumber
-
-fpdf
-
 werkzeug
